@@ -1,0 +1,11 @@
+﻿Make and Model,Battery Capacity (kWh),Range (EPA est. miles),Horsepower,Torque (lb-ft),0-60 mph Acceleration Time (seconds)
+EV Model A,60,220,250,300,6.5
+EV Model B,75,300,300,320,5.8
+EV Model C,85,340,350,330,4.9
+EV Model D,100,370,400,500,3.7
+EV Model E,120,400,450,510,3.2
+EV Model F,90,310,330,350,4.5
+EV Model G,65,230,280,290,6.8
+EV Model H,80,290,310,340,5.5
+EV Model I,95,350,370,360,4.2
+EV Model J,110,360,420,480,3.5
